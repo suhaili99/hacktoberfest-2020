@@ -18,6 +18,7 @@ Tambahkan foto profile di folder images, usahakan foto mempunyai ratio 1:1 dan m
 /images/<username-github>.png
 ```
 #### 5. Tambahkan nama
+Tambahan nama, username github, dan alamat di file app.js
 ```sh
 {
 	name : "<nama>",
