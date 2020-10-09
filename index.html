@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="Description" content="hacktoberfest-2020">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hacktoberfest 2020</title>
+  <link rel="stylesheet" href="./css/bootstrap.min.css">
+  <link rel="stylesheet" href="./css/custom.css">
+</head>
+<body class="bg-body">
+  <div>
+    <h3 class="text-center text-white font-weight-bold mt-5">DOSCOM x Hacktoberfest 2020</h3>
+  </div>
+  <div class="container mt-5">
+    <a href="https://github.com/DOSCOM/hacktoberfest-2020" target="_blank" class="text-blue font-weight-bold">Repository</a>
+    <div class="row" id="participant"></div>
+  </div>
+  <script src="./app.js"></script>
+  <script>
+    let participantId = document.getElementById("participant")
+    participants.forEach(participant => {
+      participantId.innerHTML += `
+        <div class="col-12 col-sm-6 col-md-6 col-lg-4 mt-4">
+          <div class="card text-white bg-card-blue" >
+            <div class="card-body">
+              <div>
+                <img src="${participant.image}" alt="${participant.name} image"  class="img-fluid">
+              </div>
+              <a href="pages/${participant.github}/index.html" target="_blank" class="stretched-link"></a>
+              <div class="mt-3 font-weight-bold text-light-blue">${participant.name}<br>${participant.address}</div>
+            </div>
+          </div>
+        </div>` 
+    });
+  </script>
+</body>
+</html>

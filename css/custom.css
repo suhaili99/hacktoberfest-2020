@@ -1,0 +1,19 @@
+.bg-body{
+  background-color: #072540;
+}
+.text-blue{
+  color: #7aa3bb;
+}
+.text-blue:hover{
+  color:#7aa3bb
+}
+.text-light-blue{
+  color: #8dbbd5
+}
+.bg-card-blue{
+  transition: transform .3s; 
+  background-color: #183d5d;
+}
+.bg-card-blue:hover {
+  transform: scale(1.05)
+}
