@@ -71,5 +71,11 @@ const participants = [
     image: "images/babhistta.jpg",
     address: "Salatiga, Indonesia",
    },
+   {
+    name: "Muhammad Adrian Surya Saputra",
+    github: "kayubakar0",
+    image: "images/Kayubakar0.jpg",
+    address: "Ungaran, Indonesia",
+   },
 ];
 
