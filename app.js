@@ -5,4 +5,11 @@ const participants = [
     image: "images/wdwiramadhan.jpg",
     address: "Semarang, Indonesia",
   },
+  {
+    name: "Dimas Seto Wicaksana",
+    github: "shironim",
+    image: "images/shironim.jpg",
+    address: "Semarang, Indonesia",
+  },
+  
 ];
