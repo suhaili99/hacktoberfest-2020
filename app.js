@@ -18,10 +18,10 @@ const participants = [
     address : "Pangkalan Bun, Indonesia"
   },
   {
-    name: 'Daffa Hanz',
+    name: 'Daffa Hanifisyafiq',
     github: 'mazc0de',
-    image: 'images/daffa.jpg',
-    address: 'Semarang, Indonesia'
+    image: 'images/mazc0de.jpg',
+    address: 'Pemalang, Indonesia'
   }
 ];
 
