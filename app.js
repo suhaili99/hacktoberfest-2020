@@ -32,7 +32,7 @@ const participants = [
   {
     name: "Hilman Syaukani",
     github: "hilmancrx",
-    image: "images/hilmancrx.jpg",
+    image: "images/hilman.png",
     address: "Tegal, Indonesia",
   },
 ];
