@@ -55,6 +55,12 @@ const participants = [
     address: "Tegal, Indonesia",
   },
   {
+    name: "Firman Nur Fauzi",
+    github: "firmannurfauzie",
+    image: "images/firman.jpg",
+    address: "Jakarta, Indonesia",
+  },
+  {
     name: "munchaminna",
     github: "munchaminna",
     image: "images/mintox.jpg",
