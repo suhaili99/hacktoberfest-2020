@@ -5,4 +5,10 @@ const participants = [
     image: "images/wdwiramadhan.jpg",
     address: "Semarang, Indonesia",
   },
+  {
+    name: "Hilman Syaukani",
+    github: "hilmancrx",
+    image: "images/hilmancrx.jpg",
+    address: "Tegal, Indonesia",
+  },
 ];
