@@ -16,6 +16,12 @@ const participants = [
     github: 'mazc0de',
     image: 'images/daffa.jpg',
     address: 'Semarang, Indonesia'
-  }
+  },
+ {
+    name: "Mohammad Lukman Hakim",
+    github: "loekem",
+    image: "images/lukman.jpg",
+    address: "Semarang, Indonesia",
+  },
 ];
 
