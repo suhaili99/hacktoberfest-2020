@@ -72,10 +72,22 @@ const participants = [
     address: "Salatiga, Indonesia",
    },
    {
-    name : "ilham Pras",
+    name : "Ilham Pras",
     github : "ilse31",
     image : "image/ilse31.png",
-    address : "Pati",
+    address : "pati",
   },
+  {
+    name: "Rizal Assalam",
+    github: "rizalass",
+    image: "images/rizalass.jpg",
+    address: "Cirebon, Indonesia",
+   },
+   {
+    name: "Muhammad Adrian Surya Saputra",
+    github: "kayubakar0",
+    image: "images/Kayubakar0.jpg",
+    address: "Ungaran, Indonesia",
+   },
 ];
 
