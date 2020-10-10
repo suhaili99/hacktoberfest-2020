@@ -11,11 +11,17 @@ const participants = [
     image: "images/wildan.png",
     address: "Semarang, Indonesia",
   },
- {
-    name: 'Daffa Hanz',
+  {
+    name : "Suhaili Faruq",
+    github : "suhaili99",
+    image : "images/suhaili99",
+    address : "Pangkalan Bun, Indonesia"
+  },
+  {
+    name: 'Daffa Hanifisyafiq',
     github: 'mazc0de',
-    image: 'images/daffa.jpg',
-    address: 'Semarang, Indonesia'
+    image: 'images/mazc0de.jpg',
+    address: 'Pemalang, Indonesia'
   },
  {
     name: "Mohammad Lukman Hakim",
