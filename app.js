@@ -1,4 +1,3 @@
-
 const participants = [
   {
     name: "Wahyu Dwi Ramadhan",
@@ -65,6 +64,12 @@ const participants = [
     github: "arifrizaldi",
     image: "images/arifrizaldi.jpg",
     address: "Demak, Indonesia",
+   },
+   {
+    name: "Briliantino Abhista P",
+    github: "babhistta",
+    image: "images/babhistta.jpg",
+    address: "Salatiga, Indonesia",
    },
 ];
 
