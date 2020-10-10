@@ -18,12 +18,6 @@ const participants = [
     address: "Semarang, Indonesia",
   },
   {
-    name: "arif rizaldi",
-    github: "arif1713",
-    image: "images/arif1713.jpg",
-    address: "Demak, Indonesia",
-  },
-  {
     name : "Suhaili Faruq",
     github : "suhaili99",
     image : "images/suhaili99",
@@ -66,6 +60,12 @@ const participants = [
     address: "batang, Indonesia",
    },
    {
+    name: "Arif Rizaldi",
+    github: "arifrizaldi",
+    image: "images/arifrizaldi.jpg",
+    address: "Demak, Indonesia",
+   },
+   {
     name: "Briliantino Abhista P",
     github: "babhistta",
     image: "images/babhistta.jpg",
@@ -76,6 +76,12 @@ const participants = [
     github: "rizalass",
     image: "images/rizalass.jpg",
     address: "Cirebon, Indonesia",
+   },
+   {
+    name: "Muhammad Adrian Surya Saputra",
+    github: "kayubakar0",
+    image: "images/Kayubakar0.jpg",
+    address: "Ungaran, Indonesia",
    },
 ];
 
