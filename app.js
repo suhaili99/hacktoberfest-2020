@@ -41,5 +41,11 @@ const participants = [
     image: "images/hilman.png",
     address: "Tegal, Indonesia",
   },
+  {
+    name: "Firman Nur Fauzi",
+    github: "firmannurfauzie",
+    image: "images/firman.jpg",
+    address: "Jakarta, Indonesia",
+  }
 ];
 
