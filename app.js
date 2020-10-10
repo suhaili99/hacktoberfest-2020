@@ -1,4 +1,3 @@
-
 const participants = [
   {
     name: "Wahyu Dwi Ramadhan",
@@ -17,12 +16,6 @@ const participants = [
     github: "yahyawildan",
     image: "images/wildan.png",
     address: "Semarang, Indonesia",
-  },
-  {
-    name: "arif rizaldi",
-    github: "arif1713",
-    image: "images/arif1713.jpg",
-    address: "Demak, Indonesia",
   },
   {
     name : "Suhaili Faruq",
@@ -71,6 +64,12 @@ const participants = [
     github: "arifrizaldi",
     image: "images/arifrizaldi.jpg",
     address: "Demak, Indonesia",
+   },
+   {
+    name: "Briliantino Abhista P",
+    github: "babhistta",
+    image: "images/babhistta.jpg",
+    address: "Salatiga, Indonesia",
    },
 ];
 
