@@ -77,5 +77,17 @@ const participants = [
     image : "image/ilse31.png",
     address : "pati",
   },
+  {
+    name: "Rizal Assalam",
+    github: "rizalass",
+    image: "images/rizalass.jpg",
+    address: "Cirebon, Indonesia",
+   },
+   {
+    name: "Muhammad Adrian Surya Saputra",
+    github: "kayubakar0",
+    image: "images/Kayubakar0.jpg",
+    address: "Ungaran, Indonesia",
+   },
 ];
 
