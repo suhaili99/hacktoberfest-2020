@@ -30,9 +30,16 @@ const participants = [
     address: "Semarang, Indonesia",
   },
   {
+    name: "Dimas Seto Wicaksana",
+    github: "shironim",
+    image: "images/shironim.jpg",
+    address: "Semarang, Indonesia",
+  },
+  {
     name: "Hilman Syaukani",
     github: "hilmancrx",
     image: "images/hilman.png",
     address: "Tegal, Indonesia",
   },
 ];
+
