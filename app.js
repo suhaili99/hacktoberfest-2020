@@ -12,6 +12,12 @@ const participants = [
     address: "Semarang, Indonesia",
   },
   {
+    name: "arif rizaldi",
+    github: "arif1713",
+    image: "images/arif1713.jpg",
+    address: "Demak, Indonesia",
+  },
+  {
     name : "Suhaili Faruq",
     github : "suhaili99",
     image : "images/suhaili99",
