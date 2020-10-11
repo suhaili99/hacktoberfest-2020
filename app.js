@@ -89,5 +89,11 @@ const participants = [
     image: "images/Kayubakar0.jpg",
     address: "Ungaran, Indonesia",
    },
+   {
+    name: "Muhammad Vika Putra Pangestu",
+    github: "xmvkpst",
+    image: "images/vika.jpg",
+    address: "Jakarta, Indonesia",
+   },
 ];
 
