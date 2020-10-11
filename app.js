@@ -19,7 +19,7 @@ const participants = [
   },
   {
     name : "Suhaili Faruq",
-    github : "suhaili99",
+    github : "suhaili99.jpg",
     image : "images/suhaili99",
     address : "Pangkalan Bun, Indonesia"
   },
@@ -74,8 +74,8 @@ const participants = [
    {
     name : "Ilham Pras",
     github : "ilse31",
-    image : "image/ilse31.png",
-    address : "pati",
+    image : "images/ilse31.png",
+    address : "Pati, Pucakwangi, Jawa Tengah Indonesia",
   },
   {
     name: "Rizal Assalam",
