@@ -95,5 +95,11 @@ const participants = [
     image: "images/vika.jpg",
     address: "Jakarta, Indonesia",
    },
+   {
+    name: "Yusuf Yudha Sanjaya",
+    github: "ucub",
+    image: "images/ucub.jpg",
+    address: "Semarang, Indonesia",
+   }
 ];
 
