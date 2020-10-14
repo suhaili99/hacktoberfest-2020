@@ -39,4 +39,4 @@ git commit -m <message>
 git push origin <branch-name>
 ```
 ####  8. Pull request
-Buka github, klik tombol pull request, lalu akan diredirect ke halaman open a pull request. Pull request dari fork repository branch kelian sendiri ke base repository branch master. 
+Buka github, klik tombol compare & pull request, lalu akan diredirect ke halaman open a pull request. Pull request dari head repository branch kelian sendiri ke base repository branch master. 
