@@ -1,5 +1,5 @@
 # Welcome to Hacktoberfest 2020
-
+Hacktoberfest adalah acara tahunan yang bertujuan untuk mendorong berkontribusi pada project open source. Acara ini bebas untuk siapa saja, baik untuk pemula hingga professional sekalipun. Target dari acara ini adalah peserta dapat melakukan minimal 4 pull request di antara tanggal 1 hingga 31 oktober 2020.
 ## Cara berkontribusi
 #### 1. Fork
 Untuk melakukan fork repository, klik pada pojok kanan atas halaman, tersedia tombol fork disana.
@@ -28,7 +28,7 @@ Tambahan nama, username github, dan alamat di file app.js
 }
 ```
 #### 6. Buat halaman profile
-Buat folder di dalam folder pages dengan nama username githubmu. Buat file index.html di dalam folder yang sudah anda buat. Buat halaman profile di index.html sebagus mungkin.
+Buat folder di dalam folder pages dengan nama username github. Buat file index.html di dalam folder yang sudah anda buat. Buat halaman profile di index.html sebagus mungkin.
 ```sh
 /pages/<username-github>/index.html
 ```
@@ -38,5 +38,5 @@ git add <files-name>
 git commit -m <message>
 git push origin <branch-name>
 ```
-####  8. Pull Request
-klik tombol Compare & pull request, lalu akan diredirect ke halaman Open a pull request.
+####  8. Pull request
+Buka github, klik tombol pull request, lalu akan diredirect ke halaman open a pull request. Pull request dari fork repository branch kelian sendiri ke base repository branch master. 
