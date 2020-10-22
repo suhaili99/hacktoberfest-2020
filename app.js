@@ -105,5 +105,11 @@ const participants = [{
         github: "abaek111",
         image: "images/utami.jpg",
         address: "Semarang, Indonesia",
+    },
+    {
+        name: "arya",
+        github: "xzarras",
+        image: "images/xzarras.jpg",
+        address: "Semarang, Indonesia",
     }
 ];
