@@ -2,7 +2,7 @@
 
 ## Preview
 
-<img src="/images/husin14.png" alt="My cool logo"/>
+<img src="/images/husin14.jpg" alt="My cool logo"/>
 
 
 
