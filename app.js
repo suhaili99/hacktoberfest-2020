@@ -109,7 +109,7 @@ const participants = [{
     {
         name: "arya",
         github: "xzarras",
-        image: "images/xzarras.jpg",
+        image: "images/xzarras.jpeg",
         address: "Semarang, Indonesia",
     },
     {
