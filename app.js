@@ -121,7 +121,7 @@ const participants = [{
     {
         name : "Mbull",
         github : "husin14",
-        image : "image/husin14.jpg",
+        image : "images/husin14.jpg",
         address : "Semarang, Indonesia",
     }
 ];
