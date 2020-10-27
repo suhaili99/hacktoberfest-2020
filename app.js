@@ -6,12 +6,6 @@ const participants = [
         address: "Jepara, Indonesia",
     },
     {
-        name: "agusarifudin",
-        github: "Exterasz",
-        image: "images/Exterasz.jpg",
-        address: "Pemalang, Indonesia",
-    },
-    {
         name: "Agus Arifudin",
         github: "Exterasz",
         image: "images/agus.jpg",
@@ -52,12 +46,6 @@ const participants = [
         github: "shironim",
         image: "images/shironim.jpg",
         address: "Semarang, Indonesia",
-    },
-    {
-        name: "Agus Arifudin",
-        github: "Exterasz",
-        image: "images/agus.jpg",
-        address: "Pml, Indonesia",
     },
     {
         name: "Hilman Syaukani",
