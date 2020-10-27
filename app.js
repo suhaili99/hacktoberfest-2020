@@ -1,14 +1,15 @@
-const participants = [{
+const participants = [
+    {
         name: "Wahyu Dwi Ramadhan",
         github: "wdwiramadhan",
         image: "images/wdwiramadhan.jpg",
         address: "Jepara, Indonesia",
     },
     {
-        name: "agusarifudin",
+        name: "Agus Arifudin",
         github: "Exterasz",
-        image: "images/Exterasz.jpg",
-        address: "Pemalang, Indonesia",
+        image: "images/agus.jpg",
+        address: "Pml, Indonesia",
     },
     {
         name: "Yahya Wildan",
