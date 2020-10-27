@@ -8,7 +8,7 @@ const participants = [
     {
         name: "Agus Arifudin",
         github: "Exterasz",
-        image: "images/agus.jpg",
+        image: "images/Exterasz.jpg",
         address: "Pml, Indonesia",
     },
     {
@@ -26,7 +26,7 @@ const participants = [
     {
         name: "Suhaili Faruq",
         github: "suhaili99",
-        image: "images/suhaili99.jpg",
+        image: "images/suhaili99.jpeg",
         address: "Pangkalan Bun, Indonesia"
     },
     {
@@ -140,7 +140,7 @@ const participants = [
     {
         name : "laurenziello",
         github : "laurenziello",
-        image : "images/lauren.jpg",
+        image : "images/lauren.png",
         address : "Rome, Italy",
     },
     {
