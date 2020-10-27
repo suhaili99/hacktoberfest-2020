@@ -1,26 +1,21 @@
-<<<<<<< HEAD
-const participants = [{
-=======
 const participants = [
     {
->>>>>>> dcfb2b1ed4d119b722af02c218955c49c755b0cb
         name: "Wahyu Dwi Ramadhan",
         github: "wdwiramadhan",
         image: "images/wdwiramadhan.jpg",
         address: "Jepara, Indonesia",
     },
     {
-<<<<<<< HEAD
         name: "agusarifudin",
         github: "Exterasz",
         image: "images/Exterasz.jpg",
         address: "Pemalang, Indonesia",
-=======
+    },
+    {
         name: "Agus Arifudin",
         github: "Exterasz",
         image: "images/agus.jpg",
         address: "Pml, Indonesia",
->>>>>>> dcfb2b1ed4d119b722af02c218955c49c755b0cb
     },
     {
         name: "Yahya Wildan",
@@ -29,7 +24,6 @@ const participants = [
         address: "Semarang, Indonesia",
     },
     {
-<<<<<<< HEAD
         name: "arif rizaldi",
         github: "arif1713",
         image: "images/arif1713.jpg",
@@ -38,12 +32,7 @@ const participants = [
     {
         name: "Suhaili Faruq",
         github: "suhaili99",
-        image: "images/suhaili99",
-=======
-        name: "Suhaili Faruq",
-        github: "suhaili99",
         image: "images/suhaili99.jpg",
->>>>>>> dcfb2b1ed4d119b722af02c218955c49c755b0cb
         address: "Pangkalan Bun, Indonesia"
     },
     {
@@ -64,31 +53,17 @@ const participants = [
         image: "images/shironim.jpg",
         address: "Semarang, Indonesia",
     },
-<<<<<<< HEAD
-    { <<
-        <<
-        << < HEAD
+    {
         name: "Agus Arifudin",
         github: "Exterasz",
         image: "images/agus.jpg",
         address: "Pml, Indonesia",
-        ===
-        ===
-        =
-=======
+    },
     {
->>>>>>> dcfb2b1ed4d119b722af02c218955c49c755b0cb
         name: "Hilman Syaukani",
         github: "hilmancrx",
         image: "images/hilman.png",
         address: "Tegal, Indonesia",
-<<<<<<< HEAD
-        >>>
-        >>>
-        > dc0e0654f62c13987c9a27b8923b7f17e3957824
-    },
-];
-=======
     },
     {
         name: "Firman Nur Fauzi",
@@ -181,4 +156,3 @@ const participants = [
         address : "Rome, Italy",
     }
 ];
->>>>>>> dcfb2b1ed4d119b722af02c218955c49c755b0cb
