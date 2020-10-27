@@ -126,7 +126,7 @@ const participants = [{
     },
     {
         name : "yourHB",
-        github : "solehudindt",
+        github : "yourHB",
         image : "images/yourHB.jpg",
         address : "Cemetery, Indonesia",
     },
