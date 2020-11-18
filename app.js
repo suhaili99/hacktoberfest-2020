@@ -1,14 +1,15 @@
-const participants = [{
+const participants = [
+    {
         name: "Wahyu Dwi Ramadhan",
         github: "wdwiramadhan",
         image: "images/wdwiramadhan.jpg",
         address: "Jepara, Indonesia",
     },
     {
-        name: "agusarifudin",
+        name: "Agus Arifudin",
         github: "Exterasz",
         image: "images/Exterasz.jpg",
-        address: "Pemalang, Indonesia",
+        address: "Pml, Indonesia",
     },
     {
         name: "Yahya Wildan",
@@ -17,8 +18,14 @@ const participants = [{
         address: "Semarang, Indonesia",
     },
     {
+        name: "arif rizaldi",
+        github: "arif1713",
+        image: "images/arifrizaldi.jpg",
+        address: "Demak, Indonesia",
+    },
+    {
         name: "Suhaili Faruq",
-        github: "suhaili99.jpg",
+        github: "suhaili99",
         image: "images/suhaili99.jpg",
         address: "Pangkalan Bun, Indonesia"
     },
@@ -109,7 +116,7 @@ const participants = [{
     {
         name: "arya",
         github: "xzarras",
-        image: "images/xzarras.jpg",
+        image: "images/xzarras.jpeg",
         address: "Semarang, Indonesia",
     },
     {
@@ -117,5 +124,29 @@ const participants = [{
         github: "RAY-EZ",
         image: "images/Ray-ez.png",
         address: "Delhi, India",
+    },
+    {
+        name : "Mbull",
+        github : "husin14",
+        image : "images/husin14.jpg",
+        address : "Semarang, Indonesia",
+    },
+    {
+        name : "yourHB",
+        github : "yourHB",
+        image : "images/yourHB.jpg",
+        address : "Cemetery, Indonesia",
+    },
+    {
+        name : "laurenziello",
+        github : "laurenziello",
+        image : "images/lauren.png",
+        address : "Rome, Italy",
+    },
+    {
+        name : "Muhamamd Hafidz",
+        github : "ciazhar",
+        image : "images/ciazhar.jpg",
+        address : "Semarang, Indonesia",
     }
 ];
